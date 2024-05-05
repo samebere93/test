@@ -1,7 +1,7 @@
 # Test Project
 ## This is for test
 
-[link](https://github.com/samebere93/test)
+[link](https://github.com/samebere93)
 
 ## List of Test
 * Test1
