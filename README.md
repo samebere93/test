@@ -20,3 +20,6 @@
 | content 1 | content 2 |
 | content 3 | content 4 |
 | total row 1 | total row 2|
+
+
+**bold**
